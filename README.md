@@ -1,5 +1,7 @@
-Dear Sir / Madam,
+Hi Guys,
 
-You can import the data from this repository to your colab project with the step below.
+This repository contain datasets that can be use as source to create data analytic, machine learning, or deep learning project.
+You can import this dataset to your project using these methods:
+1. 
 
-Thank You
+Thank You... :) Happy Coding...
