@@ -80,8 +80,8 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT THIS REPOSITORY -->
+## About This Repository
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
