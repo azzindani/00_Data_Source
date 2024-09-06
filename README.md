@@ -170,21 +170,38 @@ with open(filename, 'wb') as f:
 * Navigate to the file in the GitHub repository (e.g., data.csv)
 * Click on the file name to view it
   <div align="center">
-    <a href="/assets/001.png">
-      <img src="images/logo.png" alt="Logo" width="80" height="80">
-    </a>
+    <img src="/assets/001.png" alt="Logo" width="1000">
   </div>
   
 * Click the "Raw" button to view the raw file content
+  <div align="center">
+    <img src="/assets/002.png" alt="Logo" width="1000">
+  </div>
+  
 * Right-click on the page and select "Save As..." or press Ctrl + S (Cmd + S on Mac) to save the file to your local machine
-* Or click on "Download raw file"
+  <div align="center">
+    <img src="/assets/003.png" alt="Logo" width="1000">
+  </div>
+  
+* Or just simply click on "Download raw file"
+  <div align="center">
+    <img src="/assets/004.png" alt="Logo" width="1000">
+  </div>
 
 ### Download All Datasets
 
 You also can download all datasets or this entire repository by following the steps below
 * Manual download
   * Click on the green "Code" button near the top right
+    <div align="center">
+      <img src="/assets/005.png" alt="Logo" width="1000">
+    </div>
+    
   * In the dropdown menu, select "Download ZIP"
+    <div align="center">
+      <img src="/assets/006.png" alt="Logo" width="1000">
+    </div>
+    
   * This will download the entire repository as a ZIP file to your local machine. You can then extract the ZIP file and access the dataset from the appropriate folder
 
 * Using git
