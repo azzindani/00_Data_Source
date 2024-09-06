@@ -191,7 +191,7 @@ You also can download all datasets or this entire repository by following the st
 ## Contact
 
 <div id="badges">
-  <a href="422indani@gmail.com">
+  <a href="mailto:your.422indani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/azzindan1/">
