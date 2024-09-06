@@ -169,6 +169,12 @@ with open(filename, 'wb') as f:
 #### 4. Manual download
 * Navigate to the file in the GitHub repository (e.g., data.csv)
 * Click on the file name to view it
+  <div align="center">
+    <a href="/assets/001.png">
+      <img src="images/logo.png" alt="Logo" width="80" height="80">
+    </a>
+  </div>
+  
 * Click the "Raw" button to view the raw file content
 * Right-click on the page and select "Save As..." or press Ctrl + S (Cmd + S on Mac) to save the file to your local machine
 * Or click on "Download raw file"
